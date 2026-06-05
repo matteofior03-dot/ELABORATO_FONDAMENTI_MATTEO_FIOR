@@ -1,6 +1,7 @@
 # ELABORATO_FONDAMENTI_MATTEO_FIOR
 
 Ambiente di sviluppo
+
 Il progetto è stato sviluppato e testato utilizzando PyCharm, un ambiente di sviluppo integrato per Python. Tuttavia, il programma può essere eseguito anche tramite una normale installazione di Python senza l’utilizzo di PyCharm.
  
 Requisiti
