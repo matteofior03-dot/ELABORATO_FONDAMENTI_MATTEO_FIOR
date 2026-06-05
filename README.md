@@ -10,6 +10,7 @@ Requisiti
 •           Librerie standard utilizzate:
 •           sqlite3
 •           os
+
 Non sono richieste installazioni aggiuntive.
  
 Esecuzione tramite PyCharm:
@@ -25,6 +26,7 @@ Esecuzione tramite Python da terminale:
 3.         Spostarsi nella cartella in cui è stato salvato il progetto utilizzando il comando: cd nome_cartella 
 Ad esempio, se è stato salvato nella cartella elaborato_studente nel Desktop il comando sarà:
  cd Desktop\elaborato_studente
+
 4.         Verificare la presenza dei file di progetto tramite il comando: dir
 Devono essere visibili almeno i file:
 -          database.sql
